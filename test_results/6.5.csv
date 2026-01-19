@@ -1,0 +1,36 @@
+Coup_Joueur, Coup_Solveur, Type, Coup, Nanosecondes, Speedup
+1, 0, Joueur, C4, 0, 
+0, 1, Solveur (Série), E3, 70700044, 
+0, 1, Solveur (Parallèle), E3, 38992065, 1.813
+2, 0, Joueur, F4, 0, 
+0, 2, Solveur (Série), C5, 186268650, 
+0, 2, Solveur (Parallèle), C5, 73665565, 2.529
+3, 0, Joueur, D6, 0, 
+0, 3, Solveur (Série), E6, 985224812, 
+0, 3, Solveur (Parallèle), E6, 292884633, 3.364
+4, 0, Joueur, D3, 0, 
+0, 4, Solveur (Série), C3, 1096393329, 
+0, 4, Solveur (Parallèle), C3, 316792881, 3.461
+5, 0, Joueur, F5, 0, 
+0, 5, Solveur (Série), G5, 777406836, 
+0, 5, Solveur (Parallèle), G5, 222683608, 3.491
+6, 0, Joueur, F6, 0, 
+0, 6, Solveur (Série), E7, 289671699, 
+0, 6, Solveur (Parallèle), E7, 126564446, 2.289
+
+Final Noir,0
+Final Blanc,16
+Gagnant, Blanc
+
+Stats de la partie
+Coups Joueur   (NOIR),6
+Coups Solveur  (BLANC),6
+Passes Joueur  (NOIR),0 (0.000%)
+Passes Solveur (BLANC),0 (0.000%)
+Temps Solveur Série     (moyenne [ns], stdev, min, max),567610895.000, 439913419.067, 70700044, 1096393329
+Temps Solveur Parallèle (moyenne [ns], stdev, min, max),178597199.667, 116026655.722, 38992065, 316792881
+Speedup moyen (tous coups), x2.824
+Speedup moyen (speedup>1),  x2.824 (6 coups)
+Speedup minimum, x1.813
+Speedup maximum, x3.491
+Speedup < 1 (parallèle plus lent),0 (0%)

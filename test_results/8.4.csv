@@ -1,0 +1,108 @@
+Coup_Joueur, Coup_Solveur, Type, Coup, Nanosecondes, Speedup
+1, 0, Joueur, F5, 0, 
+0, 1, Solveur (Série), D6, 884207894, 
+0, 1, Solveur (Parallèle), D6, 440117404, 2.009
+2, 0, Joueur, C4, 0, 
+0, 2, Solveur (Série), F3, 2807996674, 
+0, 2, Solveur (Parallèle), F3, 1212556317, 2.316
+3, 0, Joueur, C7, 0, 
+0, 3, Solveur (Série), B3, 4858307060, 
+0, 3, Solveur (Parallèle), B3, 2339999859, 2.076
+4, 0, Joueur, B4, 0, 
+0, 4, Solveur (Série), A4, 4447317214, 
+0, 4, Solveur (Parallèle), A4, 2031497463, 2.189
+5, 0, Joueur, E3, 0, 
+0, 5, Solveur (Série), F4, 6792912552, 
+0, 5, Solveur (Parallèle), F4, 2900530179, 2.342
+6, 0, Joueur, C5, 0, 
+0, 6, Solveur (Série), B8, 14352585358, 
+0, 6, Solveur (Parallèle), B8, 5841176359, 2.457
+7, 0, Joueur, A3, 0, 
+0, 7, Solveur (Série), A2, 11426419829, 
+0, 7, Solveur (Parallèle), A2, 4571827729, 2.499
+8, 0, Joueur, G4, 0, 
+0, 8, Solveur (Série), C3, 30532608719, 
+0, 8, Solveur (Parallèle), C3, 12370558332, 2.468
+9, 0, Joueur, G2, 0, 
+0, 9, Solveur (Série), H4, 10770334766, 
+0, 9, Solveur (Parallèle), H4, 4771793919, 2.257
+10, 0, Joueur, H5, 0, 
+0, 10, Solveur (Série), H1, 13988027001, 
+0, 10, Solveur (Parallèle), H1, 5539792115, 2.525
+11, 0, Joueur, D3, 0, 
+0, 11, Solveur (Série), H6, 22703257869, 
+0, 11, Solveur (Parallèle), H6, 9106854404, 2.493
+12, 0, Joueur, B5, 0, 
+0, 12, Solveur (Série), G5, 14655537816, 
+0, 12, Solveur (Parallèle), G5, 6162884611, 2.378
+13, 0, Joueur, E2, 0, 
+0, 13, Solveur (Série), H3, 17384663754, 
+0, 13, Solveur (Parallèle), H3, 7890674422, 2.203
+14, 0, Joueur, G6, 0, 
+0, 14, Solveur (Série), F6, 15893732985, 
+0, 14, Solveur (Parallèle), F6, 6277403790, 2.532
+15, 0, Joueur, E6, 0, 
+0, 15, Solveur (Série), A5, 9054284653, 
+0, 15, Solveur (Parallèle), A5, 3875365462, 2.336
+16, 0, Joueur, D7, 0, 
+0, 16, Solveur (Série), F1, 12194549796, 
+0, 16, Solveur (Parallèle), F1, 4797255569, 2.542
+17, 0, Joueur, D1, 0, 
+0, 17, Solveur (Série), E1, 2873737176, 
+0, 17, Solveur (Parallèle), E1, 1095222812, 2.624
+18, 0, Joueur, B6, 0, 
+0, 18, Solveur (Série), A7, 2028979393, 
+0, 18, Solveur (Parallèle), A7, 871182045, 2.329
+19, 0, Joueur, F7, 0, 
+0, 19, Solveur (Série), C1, 1366334732, 
+0, 19, Solveur (Parallèle), C1, 582040624, 2.347
+20, 0, Joueur, C2, 0, 
+0, 20, Solveur (Série), B1, 937864818, 
+0, 20, Solveur (Parallèle), B1, 280557541, 3.343
+21, 0, Joueur, B7, 0, 
+0, 21, Solveur (Série), C6, 509244602, 
+0, 21, Solveur (Parallèle), C6, 136622073, 3.727
+22, 0, Joueur, D2, 0, 
+0, 22, Solveur (Série), D8, 411807521, 
+0, 22, Solveur (Parallèle), D8, 125780541, 3.274
+23, 0, Joueur, E7, 0, 
+0, 23, Solveur (Série), C8, 224987625, 
+0, 23, Solveur (Parallèle), C8, 60833738, 3.698
+24, 0, Joueur, G7, 0, 
+0, 24, Solveur (Série), H8, 117777437, 
+0, 24, Solveur (Parallèle), H8, 29079194, 4.050
+25, 0, Joueur, B2, 0, 
+0, 25, Solveur (Série), A1, 45545060, 
+0, 25, Solveur (Parallèle), A1, 16266241, 2.800
+26, 0, Joueur, H7, 0, 
+0, 26, Solveur (Série), A8, 16818589, 
+0, 26, Solveur (Parallèle), A8, 6233878, 2.698
+27, 0, Joueur, H2, 0, 
+0, 27, Solveur (Série), A6, 4849564, 
+0, 27, Solveur (Parallèle), A6, 1821300, 2.663
+28, 0, Joueur, G3, 0, 
+0, 28, Solveur (Série), F2, 566023, 
+0, 28, Solveur (Parallèle), F2, 344209, 1.644
+29, 0, Joueur, G1, 0, 
+0, 29, Solveur (Série), G8, 89090, 
+0, 29, Solveur (Parallèle), G8, 107629, 0.828
+30, 0, Joueur, E8, 0, 
+0, 30, Solveur (Série), F8, 11248, 
+0, 30, Solveur (Parallèle), F8, 104736, 0.107
+
+Final Noir,16
+Final Blanc,48
+Gagnant, Blanc
+
+Stats de la partie
+Coups Joueur   (NOIR),30
+Coups Solveur  (BLANC),30
+Passes Joueur  (NOIR),0 (0.000%)
+Passes Solveur (BLANC),0 (0.000%)
+Temps Solveur Série     (moyenne [ns], stdev, min, max),6709511893.933, 8007528934.285, 11248, 30532608719
+Temps Solveur Parallèle (moyenne [ns], stdev, min, max),2777882816.500, 3283834700.828, 104736, 12370558332
+Speedup moyen (tous coups), x2.459
+Speedup moyen (speedup>1),  x2.601 (28 coups)
+Speedup minimum, x0.107
+Speedup maximum, x4.050
+Speedup < 1 (parallèle plus lent),2 (6%)

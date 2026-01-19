@@ -1,0 +1,114 @@
+Coup_Joueur, Coup_Solveur, Type, Coup, Nanosecondes, Speedup
+1, 0, Joueur, C4, 0, 
+0, 1, Solveur (Série), E3, 879130228, 
+0, 1, Solveur (Parallèle), E3, 355748595, 2.471
+2, 0, Joueur, F6, 0, 
+0, 2, Solveur (Série), B4, 1352498983, 
+0, 2, Solveur (Parallèle), B4, 569063582, 2.377
+3, 0, Joueur, C3, 0, 
+0, 3, Solveur (Série), C5, 3121964867, 
+0, 3, Solveur (Parallèle), C5, 1596383735, 1.956
+4, 0, Joueur, B5, 0, 
+0, 4, Solveur (Série), A6, 9928807044, 
+0, 4, Solveur (Parallèle), A6, 4374802239, 2.270
+5, 0, Joueur, F3, 0, 
+0, 5, Solveur (Série), E6, 18836265747, 
+0, 5, Solveur (Parallèle), E6, 7956655442, 2.367
+6, 0, Joueur, F2, 0, 
+0, 6, Solveur (Série), D3, 15249749314, 
+0, 6, Solveur (Parallèle), D3, 6373191758, 2.393
+7, 0, Joueur, D6, 0, 
+0, 7, Solveur (Série), C6, 28111948702, 
+0, 7, Solveur (Parallèle), C6, 11133969471, 2.525
+8, 0, Joueur, D2, 0, 
+0, 8, Solveur (Série), G6, 13124085486, 
+0, 8, Solveur (Parallèle), G6, 5014314702, 2.617
+9, 0, Joueur, F5, 0, 
+0, 9, Solveur (Série), D1, 30961747338, 
+0, 9, Solveur (Parallèle), D1, 14357500419, 2.156
+10, 0, Joueur, F7, 0, 
+0, 10, Solveur (Série), E2, 45222436281, 
+0, 10, Solveur (Parallèle), E2, 17356316341, 2.606
+11, 0, Joueur, B6, 0, 
+0, 11, Solveur (Série), F4, 46467324666, 
+0, 11, Solveur (Parallèle), F4, 18922713541, 2.456
+12, 0, Joueur, G3, 0, 
+0, 12, Solveur (Série), G1, 41423962904, 
+0, 12, Solveur (Parallèle), A7, 17122905515, 2.419
+13, 0, Joueur, C1, 0, 
+0, 13, Solveur (Série), B1, 20338952671, 
+0, 13, Solveur (Parallèle), B1, 8212968203, 2.476
+14, 0, Joueur, H7, 0, 
+0, 14, Solveur (Série), C2, 14924909082, 
+0, 14, Solveur (Parallèle), C2, 6104358201, 2.445
+15, 0, Joueur, B2, 0, 
+0, 15, Solveur (Série), E7, 12442926117, 
+0, 15, Solveur (Parallèle), E7, 5248794837, 2.371
+16, 0, Joueur, E8, 0, 
+0, 16, Solveur (Série), H6, 11917185934, 
+0, 16, Solveur (Parallèle), H6, 4804204887, 2.481
+17, 0, Joueur, F1, 0, 
+0, 17, Solveur (Série), A1, 3252822896, 
+0, 17, Solveur (Parallèle), A1, 1202135072, 2.706
+18, 0, Joueur, G5, 0, 
+0, 18, Solveur (Série), H5, 3110494652, 
+0, 18, Solveur (Parallèle), H5, 1235223989, 2.518
+19, 0, Joueur, H4, 0, 
+0, 19, Solveur (Série), E1, 1749863829, 
+0, 19, Solveur (Parallèle), E1, 585433510, 2.989
+20, 0, Joueur, A4, 0, 
+0, 20, Solveur (Série), A3, 1628463624, 
+0, 20, Solveur (Parallèle), A3, 644193313, 2.528
+21, 0, Joueur, B3, 0, 
+0, 21, Solveur (Série), A2, 627632377, 
+0, 21, Solveur (Parallèle), A2, 204277767, 3.072
+22, 0, Joueur, C7, 0, 
+0, 22, Solveur (Série), H3, 406967640, 
+0, 22, Solveur (Parallèle), H3, 129158571, 3.151
+23, 0, Joueur, H2, 0, 
+0, 23, Solveur (Série), A5, 197053818, 
+0, 23, Solveur (Parallèle), A5, 72313102, 2.725
+24, 0, Joueur, G7, 0, 
+0, 24, Solveur (Série), H8, 91347068, 
+0, 24, Solveur (Parallèle), H8, 25968499, 3.518
+25, 0, Joueur, G2, 0, 
+0, 25, Solveur (Série), H1, 64713548, 
+0, 25, Solveur (Parallèle), H1, 18007670, 3.594
+26, 0, Joueur, G8, 0, 
+0, 26, Solveur (Série), F8, 16533262, 
+0, 26, Solveur (Parallèle), F8, 5362134, 3.083
+27, 0, Joueur, D8, 0, 
+0, 27, Solveur (Série), C8, 2146652, 
+0, 27, Solveur (Parallèle), C8, 925248, 2.320
+28, 0, Joueur, B8, 0, 
+0, 28, Solveur (Série), G4, 499442, 
+0, 28, Solveur (Parallèle), G4, 282953, 1.765
+0, 0, Passe Joueur, PASSE, 0, 
+0, 29, Solveur (Série), A7, 208145, 
+0, 29, Solveur (Parallèle), A7, 1641063, 0.127
+0, 0, Passe Joueur, PASSE, 0, 
+0, 30, Solveur (Série), D7, 70721, 
+0, 30, Solveur (Parallèle), D7, 99856, 0.708
+0, 0, Passe Joueur, PASSE, 0, 
+0, 31, Solveur (Série), B7, 31515, 
+0, 31, Solveur (Parallèle), B7, 3087962, 0.010
+0, 0, Passe Joueur, PASSE, 0, 
+0, 32, Solveur (Série), A8, 10144, 
+0, 32, Solveur (Parallèle), A8, 82503, 0.123
+
+Final Noir,3
+Final Blanc,61
+Gagnant, Blanc
+
+Stats de la partie
+Coups Joueur   (NOIR),28
+Coups Solveur  (BLANC),32
+Passes Joueur  (NOIR),4 (12.500%)
+Passes Solveur (BLANC),0 (0.000%)
+Temps Solveur Série     (moyenne [ns], stdev, min, max),10170398584.281, 14130197682.567, 10144, 46467324666
+Temps Solveur Parallèle (moyenne [ns], stdev, min, max),4176002646.250, 5777895708.411, 82503, 18922713541
+Speedup moyen (tous coups), x2.291
+Speedup moyen (speedup>1),  x2.584 (28 coups)
+Speedup minimum, x0.010
+Speedup maximum, x3.594
+Speedup < 1 (parallèle plus lent),4 (12%)
